@@ -17,7 +17,7 @@ group :test do
 end
 
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 4.0.0.rc2'
+gem 'sass-rails', '4.0.0.rc2'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '2.1.1'
